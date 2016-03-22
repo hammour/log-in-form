@@ -1,0 +1,25 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "a login form",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hammour/log-in-form.git"
+  },
+  "keywords": [
+    "assignment",
+    "for",
+    "day",
+    "16"
+  ],
+  "author": "Haythem Hammpuir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hammour/log-in-form/issues"
+  },
+  "homepage": "https://github.com/hammour/log-in-form#readme"
+}
