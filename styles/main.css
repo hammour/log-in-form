@@ -1,0 +1,19 @@
+body {
+  background-color: black; }
+
+section {
+  background-color: white;
+  margin: 4em;
+  max-width: 50em;
+  padding: 1em; }
+
+textarea {
+  width: 100%;
+  max-width: 50em;
+  resize: none; }
+
+.btn {
+  margin-top: 1em;
+  background-color: black; }
+
+/*# sourceMappingURL=main.css.map */
