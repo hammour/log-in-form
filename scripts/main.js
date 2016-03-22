@@ -80,13 +80,15 @@ formEL.on('submit',function(e){
 					$('#emailField').toggleClass('form-group has-error');
 					}
 							else if ((inputNameEl.val()==='aaron@theironyard.com')&&(inputPasswordEl.val()==='password123')){
+									window.location.replace("http://theironyard.com");
 							
 								}
 								else if ((inputNameEl.val()==='admin@google.com')&&(inputPasswordEl.val()==='pandas')){
+										window.location.replace("http://theironyard.com");
 							
 									}
 									else if ((inputNameEl.val()==='admin@google.com')&&(inputPasswordEl.val()==='honeycrisp')){
-							
+											window.location.replace("http://theironyard.com");
 										}
 										else{
 											$('#message2').html('Incorrect Username or Passwor');
